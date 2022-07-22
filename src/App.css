@@ -40,3 +40,10 @@
 button {
   font-size: calc(10px + 2vmin);
 }
+
+
+/* Estilo del icono carrito */
+
+ion-icon{
+  font-size: 50px;
+}
